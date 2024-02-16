@@ -1,0 +1,2506 @@
+﻿{
+  "name": "Bitkicilik",
+  "quastions": [
+    {
+      "text": "Sistem nədir",
+      "answers": [
+        {
+          "text": " müəyyən məqsədə nail olmaq üçün bir-birilə əlaqələndirilmiş bircins elementlərdən ibarət obyekt ",
+          "isCorrect": false
+        },
+        {
+          "text": " müəyyən məqsədə nail olmaq üçün bir-birilə əlaqələndirilmiş müxtəlif massivlərdən ibarət obyekt ",
+          "isCorrect": false
+        },
+        {
+          "text": " müəyyən məqsədə nail olmaq üçün sıralanmış elementlərdən ibarət obyekt ",
+          "isCorrect": false
+        },
+        {
+          "text": " müəyyən məqsədə nail olmaq üçün bir-birilə əlaqələndirilmiş eyni elementlərdən ibarət obyekt ",
+          "isCorrect": false
+        },
+        {
+          "text": " müəyyən məqsədə nail olmaq üçün bir-birilə əlaqələndirilmiş müxtəlif elementlərdən ibarət obyekt ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "İnformasiya sistemi nədir",
+      "answers": [
+        {
+          "text": " müəyyən sahədə məsələlərin həllini təmin edən qərarların qəbul edilməsi üçün informasiyanın toplanması, saxlanması, axtarışı, emalı və istifadəçilərə çatdırılmasını təmin etmək məqsədilə texniki, proqram, linqvistik, metodoloji və təşkilatı vasitələrdən ibarət kompüterdir",
+          "isCorrect": false
+        },
+        {
+          "text": " müəyyən sahədə məsələlərin həllini təmin edən qərarların qəbul edilməsi üçün informasiyanın toplanması, saxlanması, axtarışı, emalı və istifadəçilərə çatdırılmasını təmin etmək məqsədilə texniki, proqram, linqvistik, metodoloji və təşkilatı vasitələrdən ibarət kompleksdir",
+          "isCorrect": true
+        },
+        {
+          "text": " müəyyən sahədə məsələlərin həllini təmin edən qərarların qəbul edilməsi üçün informasiyanın toplanması, saxlanması, axtarışı, emalı və istifadəçilərə çatdırılmasını təmin etmək məqsədilə texniki, proqram, linqvistik, metodoloji və təşkilatı vasitələrdən ibarət kompüterlər toplusudur",
+          "isCorrect": false
+        },
+        {
+          "text": " müəyyən sahədə informasiyanın aktuallığını təmin edən, qərarların qəbul edilməsi üçün informasiyanın toplanması, saxlanması, axtarışı, emalı və istifadəçilərə çatdırılmasını təmin etmək məqsədilə texniki, proqram, linqvistik, metodoloji və təşkilatı vasitələrdən ibarət kompleksdir",
+          "isCorrect": false
+        },
+        {
+          "text": " müəyyən sahədə informasiyanın mühafizəsini təmin edən, qərarların qəbul edilməsi üçün informasiyanın toplanması, saxlanması, axtarışı, emalı və istifadəçilərə çatdırılmasını təmin etmək məqsədilə texniki, proqram, linqvistik, metodoloji və təşkilatı vasitələrdən ibarət kompleksdir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Paylanmış informasiya sistemlərində texniki təminat funksiyalarını ... yerinə yetirirlər",
+      "answers": [
+        {
+          "text": " meynfreymlər",
+          "isCorrect": false
+        },
+        {
+          "text": " kompüter sistemləri",
+          "isCorrect": true
+        },
+        {
+          "text": " kompüter şəbəkələri",
+          "isCorrect": false
+        },
+        {
+          "text": " superkompüterlər",
+          "isCorrect": false
+        },
+        {
+          "text": " meynfreymlər və superkompüterlər",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "İnformasiya sistemlərinin yarandığı ilk vaxtlar  onlar ... adlandırılırdı",
+      "answers": [
+        {
+          "text": " «Avtomatlaşdırılmış informasiya sistemləri»",
+          "isCorrect": true
+        },
+        {
+          "text": " «Mexanikləşdirilmiş informasiya sistemləri»",
+          "isCorrect": false
+        },
+        {
+          "text": " «Kompüterləşdirilmiş informasiya sistemləri»",
+          "isCorrect": false
+        },
+        {
+          "text": " «Paylanmış informasiya sistemləri»",
+          "isCorrect": false
+        },
+        {
+          "text": " «Mərkəzləşdirilmiş informasiya sistemləri»",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "İnformasiya sistemində insanın sistemin fəaliyyətində iştirakı …",
+      "answers": [
+        {
+          "text": " lazım deyil",
+          "isCorrect": false
+        },
+        {
+          "text": " əhəmiyyətsizdir",
+          "isCorrect": false
+        },
+        {
+          "text": " məhduddur",
+          "isCorrect": false
+        },
+        {
+          "text": " vacib sayılır",
+          "isCorrect": true
+        },
+        {
+          "text": " heç biri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "İnformasiya sisteminin tətbiqi aşağıdakıları əldə etməyə imkan verir:",
+      "answers": [
+        {
+          "text": " yeni bazar qanunlarının qurulmasına kömək edilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " yeni informasiya münasibətlərinin qurulmasına kömək edilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " yeni münasibətlərin qurulmasına kömək edilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " yeni bazar münasibətlərinin qurulmasına kömək edilməsi",
+          "isCorrect": true
+        },
+        {
+          "text": " yeni informasiya mübadiləsinin qurulmasına kömək edilməsi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "İnformasiya sistemində yerinə yetirilən proseslər",
+      "answers": [
+        {
+          "text": " -istifadəçilərin sorğularına uyğun informasiyanın axtarışı",
+          "isCorrect": true
+        },
+        {
+          "text": " -istifadəçilərin sorğularına uyğun məhsulların axtarışı",
+          "isCorrect": false
+        },
+        {
+          "text": " -istifadəçilərin sorğularına uyğun informasiyanın satışı",
+          "isCorrect": false
+        },
+        {
+          "text": " -istifadəçilərin sorğularına uyğun məhsulların satışı",
+          "isCorrect": false
+        },
+        {
+          "text": " -sistemin sorğularına uyğun informasiyanın axtarışı",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "İstənilən təşkilatın idarəetmə strukturu ... səviyyədən ibarət olur",
+      "answers": [
+        {
+          "text": " 7",
+          "isCorrect": false
+        },
+        {
+          "text": " 4",
+          "isCorrect": false
+        },
+        {
+          "text": " 5",
+          "isCorrect": false
+        },
+        {
+          "text": " 6",
+          "isCorrect": false
+        },
+        {
+          "text": " 3",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "Miqyasına görə informasiya sistemlərini aşağıdakı qruplara bölürlər",
+      "answers": [
+        {
+          "text": " fərdi İS, qrup İS, korporativ İS.",
+          "isCorrect": false
+        },
+        {
+          "text": " lokal İS, qrup İS, qlobal İS. ",
+          "isCorrect": false
+        },
+        {
+          "text": " lokal İS, fərdi İS, korporativ İS. ",
+          "isCorrect": false
+        },
+        {
+          "text": " lokal İS, qrup İS, korporativ İS.",
+          "isCorrect": true
+        },
+        {
+          "text": " fərdi İS, qrup İS, qlobal İS. ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Qrup informasiya sistemlərində istifadə olunan SQL-serverlər",
+      "answers": [
+        {
+          "text": " Oracle, MS SQL Server, İnterBase, Sybase, İnformix",
+          "isCorrect": true
+        },
+        {
+          "text": " dBase, Clipper, FoxPro, Paradox, Access",
+          "isCorrect": false
+        },
+        {
+          "text": " Oracle, MS SQL Server, Paradox, Access,İnformix",
+          "isCorrect": false
+        },
+        {
+          "text": " dBase, Clipper, FoxPro, Paradox, Access,MS SQL Server",
+          "isCorrect": false
+        },
+        {
+          "text": " Oracle, MS SQL Server, İnterBase,FoxPro, Paradox",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Korporativ informasiya sistemləri - ",
+      "answers": [
+        {
+          "text": " işçi qruplar üçün İS-in inkişafı nəticəsində yaradılmış və məsafəya görə səpələnmiş qovşaqlarla və şəbəkələrlə xarakterizə olunan iri kompaniyalar üçün nəzərdə tutulur",
+          "isCorrect": true
+        },
+        {
+          "text": " müəyyən işçi qrupun üzvləri tərəfindən şəbəkədə istifadə olunması üçün nəzərdə tutulur və əksər halda korporativ kompüter şəbəkəsində yaradılır",
+          "isCorrect": false
+        },
+        {
+          "text": " müəyyən işçi qrupun üzvləri tərəfindən qlobal istifadə olunması üçün nəzərdə tutulur və əksər halda lokal kompüter şəbəkəsində yaradılır",
+          "isCorrect": false
+        },
+        {
+          "text": " işçi qruplar üçün İS-in inkişafı nəticəsində yaradılmış və məsafəya görə səpələnmiş şəbəkələrlə və kompüterlərlə xarakterizə olunan iri kompaniyalar üçün nəzərdə tutulur",
+          "isCorrect": false
+        },
+        {
+          "text": " dəfələrlə təkrarlanan məsələlərin və əməliyatların həllini və cari informasiyanın dəyişməsinə cəld reaksiya verilməsini təmin edir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Lokal və ya biristifadəçili informasiya sisteminin funksional hissəsi ",
+      "answers": [
+        {
+          "text": " bir-neçə şəbəkədə reallaşır",
+          "isCorrect": false
+        },
+        {
+          "text": " bir-neçə kompüterdə reallaşır",
+          "isCorrect": false
+        },
+        {
+          "text": " bir şəbəkədə reallaşır",
+          "isCorrect": false
+        },
+        {
+          "text": " bir kompüterdə reallaşdırılır",
+          "isCorrect": true
+        },
+        {
+          "text": " bir texnologiya ilə həyata keçirilir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Müəyyən əməliyyat sistemi mühitində fəaliyyət göstərən informasiya sisteminin işini ... variantda təşkil etmək olar",
+      "answers": [
+        {
+          "text": " 4",
+          "isCorrect": false
+        },
+        {
+          "text": " 2",
+          "isCorrect": false
+        },
+        {
+          "text": " 3",
+          "isCorrect": true
+        },
+        {
+          "text": " 5",
+          "isCorrect": false
+        },
+        {
+          "text": " 6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Bütöv VBİS-dən istifadə etməklə qurulan İS-də",
+      "answers": [
+        {
+          "text": " VBİS kompüterin disk yaddaşında yerləşdirilir və İS-in fəaliyyətində bilavasitə iştirak etmir",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS kompüterin disk yaddaşında yerləşdirilir və İS-in fəaliyyətində bilavasitə iştirak edir",
+          "isCorrect": true
+        },
+        {
+          "text": " VBİS kompüterin əməli yaddaşında yerləşdirilir və İS-in fəaliyyətində bilavasitə iştirak edir",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS kompüterin əməli yaddaşında yerləşdirilir və İS-in fəaliyyətində bilavasitə iştirak etmir",
+          "isCorrect": false
+        },
+        {
+          "text": " VB kompüterin disk yaddaşında yerləşdirilir və İS-in fəaliyyətində bilavasitə iştirak edir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Məntiqi model verilənlərin ... təsvirini əks etdirir",
+      "answers": [
+        {
+          "text": " ikilik kodlarda",
+          "isCorrect": false
+        },
+        {
+          "text": " kompüter daxili",
+          "isCorrect": false
+        },
+        {
+          "text": " kompüterdən kənar",
+          "isCorrect": true
+        },
+        {
+          "text": " fiziki",
+          "isCorrect": false
+        },
+        {
+          "text": " maşın dilində",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Fiziki model ...",
+      "answers": [
+        {
+          "text": "verilənlərin kompüterin xarici yaddaşında neçə təşkil olunmasını əks etdirir",
+          "isCorrect": true
+        },
+        {
+          "text": "VBİS-in kompüterin xarici yaddaşında neçə təşkil olunmasını əks etdirir",
+          "isCorrect": false
+        },
+        {
+          "text": "VB-nin kompüterin xarici yaddaşında neçə təşkil olunmasını əks etdirir",
+          "isCorrect": false
+        },
+        {
+          "text": "sistemin kompüterin xarici yaddaşında neçə təşkil olunmasını əks etdirir",
+          "isCorrect": false
+        },
+        {
+          "text": "modelin kompüterin xarici yaddaşında neçə təşkil olunmasını əks etdirir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Xarici, məntiqi və fiziki modellər ...vasitəsilə bir-birilə əlaqələndirilir",
+      "answers": [
+        {
+          "text": " VB",
+          "isCorrect": false
+        },
+        {
+          "text": " İstifadəçi",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS",
+          "isCorrect": true
+        },
+        {
+          "text": " Kompüter",
+          "isCorrect": false
+        },
+        {
+          "text": " Üstqurum proqramları",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Verilənlər bazası adminstratorunun vəzifəsi ",
+      "answers": [
+        {
+          "text": " verilənlər bazasını qorumaq, onun yeniləşdirilməsini, təshihini və sistemin sorğularının cavablandırılmasını təmin etməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": "verilənlər bazasını yaratmaq, onun yeniləşdirilməsini, təhlilini və istifadəçilərin sorğularının cavablandırılmasını təmin etməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": "verilənlər bazasını yaratmaq, onun yeniləşdirilməsini, təshihini və istifadəçilərin sorğularının sistemə daxil edilməsinin təmin etməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": "verilənlər bazasını idarəetmə sistemini yaratmaq, onun yeniləşdirilməsini, təhlilini və istifadəçilərin sorğularının cavablandırılmasını təmin etməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": " verilənlər bazasını yaratmaq, onun yeniləşdirilməsini, təshihini və istifadəçilərin sorğularının cavablandırılmasını təmin etməkdir",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " VBİS-in nüvəsi ilə işləyən tətbiqi proqram vasitəsilə qurulan İS-də ",
+      "answers": [
+        {
+          "text": " VBİS-ə aid olan bir çox funksiyalar layihəçi və icraçının yaratdıqları üstqurum proqramları tərəfindən yerinə yetirilir",
+          "isCorrect": true
+        },
+        {
+          "text": " VBİS-ə  aid olmayan bir çox funksiyalar layihəçi və icraçının yaratdıqları üstqurum proqramları tərəfindən yerinə yetirilir",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS-ə  aid olan bir çox funksiyalar standart üstqurum proqramları tərəfindən yerinə yetirilir",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS-ə  aid olan bir çox funksiyalar icraçının aldığı üstqurum proqramları tərəfindən yerinə yetirilir",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS-ə  aid olmayan bir çox proqramlar layihəçi və icraçının yaratdıqları üstqurum proqramları tərəfindən yerinə yetirilir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ...  informasiya sistemləri kompüter şəbəkələrində reallaşdırıldıqlarından, onlara şəbəkə informasiya sistemləri deyilir",
+      "answers": [
+        {
+          "text": " heç biri",
+          "isCorrect": false
+        },
+        {
+          "text": " Korporativ və lokal",
+          "isCorrect": false
+        },
+        {
+          "text": " Qrup və qlobal",
+          "isCorrect": false
+        },
+        {
+          "text": " Qlobal və korporativ",
+          "isCorrect": false
+        },
+        {
+          "text": " Qrup və korporativ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Fayl-server arxitekturası adətən lokal şəbəkədə reallaşdırılır və ... səviyyəyə malik olur",
+      "answers": [
+        {
+          "text": " 5",
+          "isCorrect": false
+        },
+        {
+          "text": " 3",
+          "isCorrect": false
+        },
+        {
+          "text": " 4",
+          "isCorrect": false
+        },
+        {
+          "text": " 2",
+          "isCorrect": true
+        },
+        {
+          "text": " 6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Fayl-server yalnız fayllardan verilənləri seçib çıxarır və kliyentlərə ötürür, ...",
+      "answers": [
+        {
+          "text": " kliyentlər isə verilənləri emal edib, istifadəçilərə çatdırırlar",
+          "isCorrect": true
+        },
+        {
+          "text": " kliyentlər isə informasiyanı emal edib, istifadəçilərə çatdırırlar",
+          "isCorrect": false
+        },
+        {
+          "text": " kliyentlər isə verilənləri emal edib, sistemə çatdırırlar",
+          "isCorrect": false
+        },
+        {
+          "text": " kliyentlər isə informasiyanı emal edib, sistemə çatdırırlar",
+          "isCorrect": false
+        },
+        {
+          "text": " kliyentlər isə verilənləri emal edib, icraçılara çatdırırlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Kliyent-server arxitekturalı İS fayl-server arxitekturalı İS-dən ilk növbədə onunla fərqlənir ki, ",
+      "answers": [
+        {
+          "text": " VBİS-in elementləri funksional olaraq server və kliyent adlanan iki hissəyə ayrılır",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS-in verilənləri funksional olaraq server və kliyent adlanan iki hissəyə ayrılır",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS-in kompüterləri funksional olaraq server və kliyent adlanan iki hissəyə ayrılır",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS-in informasiyası funksional olaraq server və kliyent adlanan iki hissəyə ayrılır",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS-in proqramları funksional olaraq server və kliyent adlanan iki hissəyə ayrılır",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Kliyent-server arxitekturasının əksər tipləri ... modellə qurulur",
+      "answers": [
+        {
+          "text": " üçsəviyyəli",
+          "isCorrect": false
+        },
+        {
+          "text": " ikisəviyyəli",
+          "isCorrect": true
+        },
+        {
+          "text": " birsəviyyəli",
+          "isCorrect": false
+        },
+        {
+          "text": " çoxsəviyyəli",
+          "isCorrect": false
+        },
+        {
+          "text": " heç biri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Kliyent-server tipli sistemlərin reallaşdırılması üçün proqramlaşdırma sistemləri",
+      "answers": [
+        {
+          "text": " Power Builder, Foxpro, Visual Basic",
+          "isCorrect": false
+        },
+        {
+          "text": " Power Builder, ERwinder, Visual Basic",
+          "isCorrect": false
+        },
+        {
+          "text": " MS Access, foxpro, dBASE",
+          "isCorrect": false
+        },
+        {
+          "text": " Power Builder, ERwin, Visual Basic",
+          "isCorrect": true
+        },
+        {
+          "text": " Power Builder, ERwin, MS Access",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Çoxsəviyyəli arxitektura ... arxitekturasının inkişafı nəticəsində yaranmışdır",
+      "answers": [
+        {
+          "text": " kliyent-server",
+          "isCorrect": true
+        },
+        {
+          "text": " fayl-server",
+          "isCorrect": false
+        },
+        {
+          "text": " İnternet/intranet",
+          "isCorrect": false
+        },
+        {
+          "text": " VBİS",
+          "isCorrect": false
+        },
+        {
+          "text": " hamısı birlikdə",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Çoxsəviyyəli arxitekturanın yuxarı səviyyəsi -",
+      "answers": [
+        {
+          "text": " verilənlərin emalı xidmətini (DS) və fayl əməliyyatlarını (PS) yerinə yetirən VB-nin uzaq məsafəli xüsusi serverindən ibarət olur",
+          "isCorrect": false
+        },
+        {
+          "text": " verilənlərin emalı xidmətini (DL) və fayl əməliyyatlarını (FS) yerinə yetirən VB-nin uzaq məsafəli xüsusi serverindən ibarət olur",
+          "isCorrect": false
+        },
+        {
+          "text": " verilənlərin emalı xidmətini (DS) və fayl əməliyyatlarını (FS) yerinə yetirən VB-nin uzaq məsafəli xüsusi serverindən ibarət olur",
+          "isCorrect": true
+        },
+        {
+          "text": " verilənlərin emalı xidmətini (PS) və fayl əməliyyatlarını (BL) yerinə yetirən VB-nin uzaq məsafəli xüsusi serverindən ibarət olur",
+          "isCorrect": false
+        },
+        {
+          "text": " verilənlərin emalı xidmətini (FS) və fayl əməliyyatlarını (PS) yerinə yetirən VB-nin uzaq məsafəli xüsusi serverindən ibarət olur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Funksiyaların ... səviyyədə bölüşdürülməsi çoxsəviyyəli arxitekturalı şəbəkə informasiya sisteminin tipik variantıdır",
+      "answers": [
+        {
+          "text": " 7",
+          "isCorrect": false
+        },
+        {
+          "text": " 2",
+          "isCorrect": false
+        },
+        {
+          "text": " 4",
+          "isCorrect": false
+        },
+        {
+          "text": " 5",
+          "isCorrect": false
+        },
+        {
+          "text": " 3",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Üçsəviyyəli arxitekturanın reallaşdırılması üçün proqram vasitələri əsasən ... mühiti üçün hazırlanır",
+      "answers": [
+        {
+          "text": " Windows",
+          "isCorrect": false
+        },
+        {
+          "text": " Linux",
+          "isCorrect": false
+        },
+        {
+          "text": " Macintosh",
+          "isCorrect": false
+        },
+        {
+          "text": " MS DOS",
+          "isCorrect": false
+        },
+        {
+          "text": " UNİX",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " İnternet/İntranet texnologiyasının çoxsəviyyəli arxitektura ilə birləşdirilməsi zamanı informasiya sisteminin strukturu bu şəkildə qurulur:.",
+      "answers": [
+        {
+          "text": " brauzer - tətbiq serveri - verilənlər bazasının serveri - dinamiki səhifələr serveri - Web-server",
+          "isCorrect": true
+        },
+        {
+          "text": " Web-server - tətbiq serveri - verilənlər bazasının serveri - dinamiki səhifələr serveri - brauzer",
+          "isCorrect": false
+        },
+        {
+          "text": " verilənlər bazasının serveri - brauzer - tətbiq serveri - dinamiki səhifələr serveri - Web-server",
+          "isCorrect": false
+        },
+        {
+          "text": " dinamiki səhifələr serveri - brauzer - tətbiq serveri - verilənlər bazasının serveri - Web-server",
+          "isCorrect": false
+        },
+        {
+          "text": " tətbiq serveri - brauzer - verilənlər bazasının serveri - dinamiki səhifələr serveri - Web-server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " İntranet texnologiyası əslində ... informasiya sistemi mühitinə uyğunlaşdırılmış İnternet texnologiyasıdır",
+      "answers": [
+        {
+          "text": " korporativ",
+          "isCorrect": true
+        },
+        {
+          "text": " lokal",
+          "isCorrect": false
+        },
+        {
+          "text": " qrup",
+          "isCorrect": false
+        },
+        {
+          "text": " şəbəkə",
+          "isCorrect": false
+        },
+        {
+          "text": " internet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Server proqramlarının VB-yə müraciətini təşkil etmək üçün VB informasiyası əsasında Web səhifələrinin dinamik qurulması texnologiyalarından  (...) istifadə oluna bilər",
+      "answers": [
+        {
+          "text": " ASP, PHP, İDC/HTX",
+          "isCorrect": true
+        },
+        {
+          "text": " APS, PHP, İDC/HTX",
+          "isCorrect": false
+        },
+        {
+          "text": " ASP, PHP, İDC/HXT",
+          "isCorrect": false
+        },
+        {
+          "text": " SPA, PHP, İDC/HTX",
+          "isCorrect": false
+        },
+        {
+          "text": " ASP, HPP, İDC/HXT",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Biliklər kimi başa düşülən informasiya resursları ... alınaraq, sənədlər, verilənlər bazaları, biliklər bazaları, alqoritmlər, kompüter proqramları, həmçinin inçəsənət əsərləri, ədəbiyyat, elm şəklində materiallaşdırılır",
+      "answers": [
+        {
+          "text": " filmlərdən",
+          "isCorrect": false
+        },
+        {
+          "text": " arxivlərdən",
+          "isCorrect": false
+        },
+        {
+          "text": " kitablardan ",
+          "isCorrect": false
+        },
+        {
+          "text": " insanlardan",
+          "isCorrect": false
+        },
+        {
+          "text": " hamısı birlikdə",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " İnformasiya xidməti - ",
+      "answers": [
+        {
+          "text": " informasiya məhsullarının saxlanması və sistemə ötürülməsi deməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": " informasiya məhsullarının satılması və istifadəçiyə təqdim edilməsi deməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": " informasiya məhsullarının alınması və sistemə təqdim edilməsi deməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": " informasiya məhsullarının emal edilməsi və istifadəçiyə təqdim edilməsi deməkdir",
+          "isCorrect": true
+        },
+        {
+          "text": " informasiya məhsullarının alınması və istifadəçiyə təqdim edilməsi deməkdir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Müəssisədə fəaliyyət göstərən ... informasiya sistemi müəssisənin operativ idarə olunmasında əvəzsiz rol oynayır",
+      "answers": [
+        {
+          "text": " qrup",
+          "isCorrect": false
+        },
+        {
+          "text": " lokal",
+          "isCorrect": false
+        },
+        {
+          "text": " qlobal",
+          "isCorrect": false
+        },
+        {
+          "text": " korporativ",
+          "isCorrect": true
+        },
+        {
+          "text": " şəbəkə",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Müəssisələrin strukturlarındakı bu cür oxşarlıq informasiya sistemlərinin tətbiq sahələrindən asılı olmayaraq ...",
+      "answers": [
+        {
+          "text": " ümumi yanaşma ilə qurulmasına imkan verir",
+          "isCorrect": true
+        },
+        {
+          "text": "xüsusi yanaşma ilə qurulmasına imkan verir",
+          "isCorrect": false
+        },
+        {
+          "text": " ümumi yanaşma ilə qurulmasına imkan vermir",
+          "isCorrect": false
+        },
+        {
+          "text": "xüsusi yanaşma ilə qurulmasına imkan vermir",
+          "isCorrect": false
+        },
+        {
+          "text": " ümumi yanaşma ilə idarə olunmasına imkan verir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " İdarə olunan obyekt kimi layihə  ... əsas xüsusiyyətə malikdir",
+      "answers": [
+        {
+          "text": " 4",
+          "isCorrect": false
+        },
+        {
+          "text": " 6",
+          "isCorrect": false
+        },
+        {
+          "text": " 3",
+          "isCorrect": false
+        },
+        {
+          "text": " 7",
+          "isCorrect": false
+        },
+        {
+          "text": " 8",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Mürəkkəbliyindən və işin həcmindən asılı olmayaraq, hər bir layihə özünün yaradılmasında və inkişafında ...",
+      "answers": [
+        {
+          "text": " «layihə hələ yoxdur» vəziyyətindən «layihə artıq vardır» vəziyyətinə qədər bir yol keçir",
+          "isCorrect": false
+        },
+        {
+          "text": " «layihə hələ yoxdur» vəziyyətindən «layihə artıq yoxdur» vəziyyətinə qədər bir yol keçir",
+          "isCorrect": true
+        },
+        {
+          "text": " «layihə yoxdur» vəziyyətindən «layihə vardır» vəziyyətinə qədər  bir yol keçir",
+          "isCorrect": false
+        },
+        {
+          "text": " «layihə hələ vardır» vəziyyətindən «layihə artıq vardır» vəziyyətinə qədər bir yol keçir",
+          "isCorrect": false
+        },
+        {
+          "text": " «layihə başlandı» vəziyyətindən «layihə qurtardı» vəziyyətinə qədər  bir yol keçir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " İnformasiya sisteminin qurulma prosesinin məntiqi və əsas məzmunu əsasən ... mərhələdən ibarətdir",
+      "answers": [
+        {
+          "text": " 3",
+          "isCorrect": false
+        },
+        {
+          "text": " 5",
+          "isCorrect": false
+        },
+        {
+          "text": " 7",
+          "isCorrect": true
+        },
+        {
+          "text": " 8",
+          "isCorrect": false
+        },
+        {
+          "text": " 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Konseptual mərhələdə aşağıdakı işlər yerinə yetirilir:",
+      "answers": [
+        {
+          "text": " idarəetmənin formalaşdırılması və məqsədlərin təyini, layihənin əsas sisteminin formalaşdırılması, alternativ variantların müqayisəli qiymətləndirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " ideyanın formallaşdırılması və məqsədlərin təyini, layihənin əsas komandasının formalaşdırılması,əsas variantların qiymətləndirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " ideyanın formalaşdırılması və işçilərin təyini, layihənin əsas obyektlərinin formalaşdırılması, alternativ variantların müqayisəsi ",
+          "isCorrect": false
+        },
+        {
+          "text": " ideyanın formalaşdırılması və məqsədlərin təyini, layihənin əsas komandasının formalaşdırılması, alternativ variantların müqayisəli qiymətləndirilməsi",
+          "isCorrect": true
+
+        },
+        {
+          "text": " işçilərin formalaşdırılması və məqsədlərin təyini, layihənin əsas komandasının formalaşdırılması, alternativ vasitələrin müqayisəli qiymətləndirilməsi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " İnformasiya sisteminin həyat dövrü onun hazırlanması haqqında qərar qəbul edilmə anından istismardan silinməsi anına  qədər davam edən ... prosesi əhatə edir",
+      "answers": [
+        {
+          "text": " fasiləli",
+          "isCorrect": false
+        },
+        {
+          "text": " diskret",
+          "isCorrect": false
+        },
+        {
+          "text": " iqtisadi",
+          "isCorrect": false
+        },
+        {
+          "text": " fasiləsiz",
+          "isCorrect": true
+        },
+        {
+          "text": " siyasi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ISO/IEC 122207 standartı ... yaradılması zamanı yerinə yetirilən prosesləri, əməliyyatları və məsələləri əks etdirən həyat dövrünün strukturunu təyin edir",
+      "answers": [
+        {
+          "text": " verilənlər bazasının",
+          "isCorrect": false
+        },
+        {
+          "text": " informasiya texnologiyasının",
+          "isCorrect": false
+        },
+        {
+          "text": " informasiya sistemnin",
+          "isCorrect": true
+        },
+        {
+          "text": " verilənlər bazasını idarəetmə sisteminin",
+          "isCorrect": false
+        },
+        {
+          "text": " lokal şəbəkənin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ... standartına görə həyat dövrü 3 qrup proseslərə əsaslanır",
+      "answers": [
+        {
+          "text": " ISO/IEC 12208",
+          "isCorrect": false
+        },
+        {
+          "text": " ISO/IEC 12206",
+          "isCorrect": false
+        },
+        {
+          "text": " ISO/IEC 12205",
+          "isCorrect": false
+        },
+        {
+          "text": " ISO/IEC 12204",
+          "isCorrect": false
+        },
+        {
+          "text": " ISO/IEC 12207",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Həyat dövrünün əsas prosesləri …",
+      "answers": [
+        {
+          "text": " sistemin qurulması, istismarı və müşahidə edilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " sistemin qurulması, istismarı və müşayiət edilməsi",
+          "isCorrect": true
+        },
+        {
+          "text": " sistemin qurulması, istismarı və satılması",
+          "isCorrect": false
+        },
+        {
+          "text": " sistemin qurulması, istismarı və ləğvi",
+          "isCorrect": false
+        },
+        {
+          "text": " sistemin qurulması, istismarı və şəbəkəyə qoşulması",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Köməkçi proseslər içərisində əsas yeri … idarə olunması tutur",
+      "answers": [
+        {
+          "text": " Müəssisənin",
+          "isCorrect": false
+        },
+        {
+          "text": " Kompüterin",
+          "isCorrect": false
+        },
+        {
+          "text": " Sistemin",
+          "isCorrect": false
+        },
+        {
+          "text": " Şəbəkənin",
+          "isCorrect": false
+        },
+        {
+          "text": " Konfiqurasiyanın",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Konfiqurasiyanın idarə olunması İS-in həyat dövrünün bütün fazalarında ",
+      "answers": [
+        {
+          "text": " komponentlərdə dəyişikliklər edilməsini sistematik olaraq nəzərə almağa və nəzarət etməyə yönəlir",
+          "isCorrect": true
+        },
+        {
+          "text": " sistemdə dəyişikliklər edilməsini sistematik olaraq nəzərə almağa və nəzarət etməyə yönəlir",
+          "isCorrect": false
+        },
+        {
+          "text": " kompüterdə dəyişikliklər edilməsini sistematik olaraq nəzərə almağa və nəzarət etməyə yönəlir",
+          "isCorrect": false
+        },
+        {
+          "text": " proqramda dəyişikliklər edilməsini sistematik olaraq nəzərə almağa və nəzarət etməyə yönəlir",
+          "isCorrect": false
+        },
+        {
+          "text": " verilənlər bazasında dəyişikliklər edilməsini sistematik olaraq nəzərə almağa və nəzarət etməyə yönəlir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Layihənin kefiyyətinin təminatı sistemin komponentlərinin ",
+      "answers": [
+        {
+          "text": " identifikasiyası, yoxlanması və testlənməsi ilə bağlıdır",
+          "isCorrect": false
+        },
+        {
+          "text": " verifikasiyası, yoxlanması və testlənməsi ilə bağlıdır",
+          "isCorrect": true
+        },
+        {
+          "text": " verifikasiyası, yoxlanması və istismarı ilə bağlıdır",
+          "isCorrect": false
+        },
+        {
+          "text": " verifikasiyası, inteqrasiyası və testlənməsi ilə bağlıdır",
+          "isCorrect": false
+        },
+        {
+          "text": "istismarı, yoxlanması və inteqrasıyası ilə bağlıdır",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ... korporasiyasının təklif etdiyi variantda İS-in həyat dövrü 4 mərhələyə bölünür",
+      "answers": [
+        {
+          "text": " Microsoft",
+          "isCorrect": false
+        },
+        {
+          "text": " Rational Rose ",
+          "isCorrect": true
+        },
+        {
+          "text": " Borland Pascal",
+          "isCorrect": false
+        },
+        {
+          "text": " İBM",
+          "isCorrect": false
+        },
+        {
+          "text": " HP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Tətbiq sahəsindən asılı olmayaraq kaskad modelində aşağıdakı mərhələləri ayırmaq olar",
+      "answers": [
+        {
+          "text": " Layihələndirmə, hazırlama, testləmə və əsas istismar",
+          "isCorrect": false
+        },
+        {
+          "text": " Layihələndirmə, hazırlama, testləmə və satış",
+          "isCorrect": false
+        },
+        {
+          "text": " Layihələndirmə, hazırlama, testləmə və müşahidə",
+          "isCorrect": false
+        },
+        {
+          "text": " Layihələndirmə, hazırlama, testləmə və müşaiyət",
+          "isCorrect": false
+        },
+        {
+          "text": " Layihələndirmə, hazırlama, testləmə və sınaq istismarı",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Protitipə əsaslanan modellə informasiya sisteminin qurulması … proses kimi həyata keçirilir",
+      "answers": [
+        {
+          "text": " Kəsilməz",
+          "isCorrect": false
+        },
+        {
+          "text": " İnteraktiv",
+          "isCorrect": false
+        },
+        {
+          "text": " İterativ ",
+          "isCorrect": true
+        },
+        {
+          "text": " Dinamiki",
+          "isCorrect": false
+        },
+        {
+          "text": " Statik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Kaskad modelindən fərqli olaraq prototip modelində ... adlanan mərhələ yoxdur",
+      "answers": [
+        {
+          "text": " hazırlama",
+          "isCorrect": false
+        },
+        {
+          "text": " istismar",
+          "isCorrect": false
+        },
+        {
+          "text": " layihələndirmə ",
+          "isCorrect": true
+        },
+        {
+          "text": " testləmə",
+          "isCorrect": false
+        },
+        {
+          "text": " işə salma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Spiral modeldə spiralın hər bir həlqəsi ... fraqmentinin  hazırlanmasına uyğun gəlir",
+      "answers": [
+        {
+          "text": " Heç biri",
+          "isCorrect": false
+        },
+        {
+          "text": " İnformasiya məhsulunun",
+          "isCorrect": false
+        },
+        {
+          "text": " Verilənlər",
+          "isCorrect": false
+        },
+        {
+          "text": " Sistemin",
+          "isCorrect": false
+        },
+        {
+          "text": " Proqram məhsulunun ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Spiral modelin əsas  catışmazlığı",
+      "answers": [
+        {
+          "text": " növbəti mərhələyə keçid vaxtının təyin edilməsi",
+          "isCorrect": true
+        },
+        {
+          "text": " növbəti sistemə keçid vaxtının təyin edilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " növbəti proqrama keçid vaxtının təyin edilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " iterasiyalı yanaşma sistemin qurulma prosesi",
+          "isCorrect": false
+        },
+        {
+          "text": " iterasiyalı yanaşma sistemin qurulma mərhələsi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " RAD metodologiyasının əsas  prinsipləri aşağıdakılardır",
+      "answers": [
+        {
+          "text": " sazlama mərhələlərində avtomatlaşdırılmış vasitələrdən istifadə olunur",
+          "isCorrect": false
+        },
+        {
+          "text": " qurulma mərhələlərində texniki vasitələrdən istifadə olunur",
+          "isCorrect": false
+        },
+        {
+          "text": " istismar mərhələlərində avtomatlaşdırılmış vasitələrdən istifadə olunur",
+          "isCorrect": false
+        },
+        {
+          "text": " istismar mərhələlərində texniki vasitələrdən istifadə olunur",
+          "isCorrect": false
+        },
+        {
+          "text": " qurulma mərhələlərində avtomatlaşdırılmış vasitələrdən istifadə olunur",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Obyekt-yönlü yanaşma mürəkkəb sistemlərin yaradılmasında əsas cətinliklərdən birini – ... –aradan qaldırmağa imkan verir",
+      "answers": [
+        {
+          "text": " real həyatla sistem arasındakı fərqi",
+          "isCorrect": false
+        },
+        {
+          "text": " real həyatla imitasiya mühiti arasındakı asılılığı",
+          "isCorrect": false
+        },
+        {
+          "text": " real həyatla informasiya mühiti arasındakı fərqi",
+          "isCorrect": false
+        },
+        {
+          "text": " real həyatla informasiya mühiti arasındakı asılılığı",
+          "isCorrect": false
+        },
+        {
+          "text": " real həyatla imitasiya mühiti arasındakı fərqi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Miçrosoft ODBC, Oracle CDM standartları aiddir",
+      "answers": [
+        {
+          "text": " Firma standartları",
+          "isCorrect": true
+        },
+        {
+          "text": " Milli standartlar",
+          "isCorrect": false
+        },
+        {
+          "text": " Sahə standartları",
+          "isCorrect": false
+        },
+        {
+          "text": " Korporativ standartlar",
+          "isCorrect": false
+        },
+        {
+          "text": " Beynəlxalq standartlar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " İSO 12207 standartında həyat dövrünün … əsas prosesi təsvir olunur",
+      "answers": [
+        {
+          "text": " 7",
+          "isCorrect": false
+        },
+        {
+          "text": " 5",
+          "isCorrect": true
+        },
+        {
+          "text": " 3",
+          "isCorrect": false
+        },
+        {
+          "text": " 4",
+          "isCorrect": false
+        },
+        {
+          "text": " 6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Profil – tələb olunan fuksiyaların reallaşdırılması üçün dəqiq təyin olunmuş və harmonikləşdirilmiş vacib və ya fakultativ imkanları əks etdirən bir neçə ... standartının toplusudur",
+      "answers": [
+        {
+          "text": " Qlobal",
+          "isCorrect": false
+        },
+        {
+          "text": " Korporativ",
+          "isCorrect": true
+        },
+        {
+          "text": " Firma",
+          "isCorrect": false
+        },
+        {
+          "text": " Baza ",
+          "isCorrect": false
+        },
+        {
+          "text": " Heç biri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Acıq sistemlərin mühitinin etalon modeli ",
+      "answers": [
+        {
+          "text": " Oracle ",
+          "isCorrect": false
+        },
+        {
+          "text": " ODBJ",
+          "isCorrect": false
+        },
+        {
+          "text": " OSERM",
+          "isCorrect": true
+        },
+        {
+          "text": " OCERM",
+          "isCorrect": false
+        },
+        {
+          "text": " İnformix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ES-lərin işlənməsində minimal səviyyədə ... mütəxəssis iştirak edir",
+      "answers": [
+        {
+          "text": " 6",
+          "isCorrect": false
+        },
+        {
+          "text": " 3",
+          "isCorrect": false
+        },
+        {
+          "text": " 2",
+          "isCorrect": false
+        },
+        {
+          "text": " 5",
+          "isCorrect": false
+        },
+        {
+          "text": " 4",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Məntiqi nəticə bloku - ",
+      "answers": [
+        {
+          "text": "bilik bazasında olan məlumatlar əsasında ekspertin fikirlərinin, düşüncələrinin gedişini modelləşdirən proqramdır",
+          "isCorrect": true
+        },
+        {
+          "text": "verilənlər bazasında olan məlumatlar əsasında ekspertin fikirlərinin, düşüncələrinin gedişini modelləşdirən proqramdır",
+          "isCorrect": false
+        },
+        {
+          "text": "bilik bazasında olan məlumatlar əsasında ekspertin fikirlərinin, düşüncələrinin gedişini modelləşdirən sistemdir",
+          "isCorrect": false
+        },
+        {
+          "text": "verilənlər bazasında olan məlumatlar əsasında ekspertin fikirlərinin, düşüncələrinin gedişini modelləşdirən sistemdir",
+          "isCorrect": false
+        },
+        {
+          "text": "bilik bazasında olan vasitələr əsasında ekspertin fikirlərinin, düşüncələrinin istiqamətini modelləşdirən proqramdır",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Bilik bazası – ES – in özəyi olub, predmet sahəsində ",
+      "answers": [
+        {
+          "text": "biliklər məcmusunun ekspertə və istifadəçiyə aydın olan formada (təbii dilə yaxın dillərdə) maşın informasiya daşıyıcılarına yazılmış kompleksidir",
+          "isCorrect": true
+        },
+        {
+          "text": "verilənlər məcmusunun ekspertə və istifadəçiyə aydın olan formada (təbii dilə yaxın dillərdə) maşın informasiya daşıyıcılarına yazılmış kompleksidir",
+          "isCorrect": false
+        },
+        {
+          "text": "biliklər məcmusunun ekspertə və icraçıya aydın olan formada (təbii dilə yaxın dillərdə) maşın informasiya daşıyıcılarına yazılmış kompleksidir",
+          "isCorrect": false
+        },
+        {
+          "text": "biliklər məcmusunun ekspertə və istifadəçiyə aydın olan formada (maşın dilinə yaxın dillərdə) maşın informasiya daşıyıcılarına yazılmış kompleksidir",
+          "isCorrect": false
+        },
+        {
+          "text": "biliklər məcmusunun sistemə və istifadəçiyə aydın olan formada (təbii dilə yaxın dillərdə) maşın informasiya daşıyıcılarına yazılmış proqramlardır",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Bilik bazasının intellektual redaktoru – ",
+      "answers": [
+        {
+          "text": " bilik mühəndisinə dialoq rejimində bilik bazası yaratmağa imkan verən sistemdir",
+          "isCorrect": false
+        },
+        {
+          "text": " bilik mühəndisinə dialoq rejimində bilik bazası yaratmağa imkan verən proqramdır",
+          "isCorrect": true
+        },
+        {
+          "text": " bilik mühəndisinə dialoq rejimində bilik bazası yaratmağa imkan verən modeldir",
+          "isCorrect": false
+        },
+        {
+          "text": " bilik mühəndisinə dialoq rejimində bilik bazası yaratmağa imkan verən kompüterdir",
+          "isCorrect": false
+        },
+        {
+          "text": " bilik mühəndisinə dialoq rejimində bilik bazası yaratmağa imkan verən interfeysdir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ES – in işlənməsinə ... rəhbərlik edir",
+      "answers": [
+        {
+          "text": " ekspert",
+          "isCorrect": false
+        },
+        {
+          "text": " istifadəçi",
+          "isCorrect": false
+        },
+        {
+          "text": " administrator",
+          "isCorrect": false
+        },
+        {
+          "text": " proqramçı",
+          "isCorrect": false
+        },
+        {
+          "text": " bilik mühəndisi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " ES – lər hazırda ... proqram kompleksini birləşdirir",
+      "answers": [
+        {
+          "text": " bir neçə min",
+          "isCorrect": true
+        },
+        {
+          "text": " bir neçə ədəd",
+          "isCorrect": false
+        },
+        {
+          "text": " bir neçə yüz",
+          "isCorrect": false
+        },
+        {
+          "text": " onlarla",
+          "isCorrect": false
+        },
+        {
+          "text": " bir neçə milyon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ES-lərin işlənməsinin instrumental vasitələrini... qrupa bölmək olar",
+      "answers": [
+        {
+          "text": " 4",
+          "isCorrect": true
+        },
+        {
+          "text": " 8",
+          "isCorrect": false
+        },
+        {
+          "text": " 6",
+          "isCorrect": false
+        },
+        {
+          "text": " 3",
+          "isCorrect": false
+        },
+        {
+          "text": " 5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ES-lərin işlənməsini ... ardıcıl məntiqi mərhələyə bölürlər",
+      "answers": [
+        {
+          "text": " 7",
+          "isCorrect": false
+        },
+        {
+          "text": " 8",
+          "isCorrect": false
+        },
+        {
+          "text": " 6",
+          "isCorrect": true
+        },
+        {
+          "text": " 5",
+          "isCorrect": false
+        },
+        {
+          "text": " 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Bilikləri səciyyələndirən xüsusiyyətlər",
+      "answers": [
+        {
+          "text": "Daxili interperetasiya,Strukturlaşma,Bağlılıq,Aktivlik",
+          "isCorrect": true
+        },
+        {
+          "text": "Xarici interperetasiya,Strukturlaşma,Bağlılıq,Aktivlik",
+          "isCorrect": false
+        },
+        {
+          "text": "Daxili interperetasiya,Strukturlaşma,Sərbəstlik,Passivlik",
+          "isCorrect": false
+        },
+        {
+          "text": "Daxili inteqrasiya,Strukturlaşma,Bağlılıq,Passivlik",
+          "isCorrect": false
+        },
+        {
+          "text": "Xarici inteqrasiya,Strukturlaşma,Sərbəstlik, Aktivlik",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Bilikləri üç əsas sistemə ayırırlar:",
+      "answers": [
+        {
+          "text": " Tam taktiki biliklər,Aktiv biliklər,Praqmatik biliklər",
+          "isCorrect": false
+        },
+        {
+          "text": " Tam nəzəri biliklər,Aktual biliklər,Praqmatik biliklər",
+          "isCorrect": false
+        },
+        {
+          "text": " Tam faktiki biliklər,Aktiv biliklər,Praqmatik biliklər",
+          "isCorrect": false
+        },
+        {
+          "text": " Tam faktiki biliklər,Aktual biliklər,Paradoks biliklər",
+          "isCorrect": false
+        },
+        {
+          "text": " Tam faktiki biliklər,Aktual biliklər,Praqmatik biliklər",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Freym - ",
+      "answers": [
+        {
+          "text": "bilik strukturu kimi məkan mənzərələrini qavramaq üçün vasitədir",
+          "isCorrect": true
+        },
+        {
+          "text": "bilik strukturu kimi təbiət mənzərələrini qavramaq üçün vasitədir",
+          "isCorrect": false
+        },
+        {
+          "text": "bilik strukturu kimi zaman mənzərələrini qavramaq üçün vasitədir",
+          "isCorrect": false
+        },
+        {
+          "text": "bilik strukturu kimi müəssisə mənzərələrini qavramaq üçün vasitədir",
+          "isCorrect": false
+        },
+        {
+          "text": "bilik strukturu kimi cəmiyyət mənzərələrini qavramaq üçün vasitədir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Kənd təsərrüfatı istehsalında Qlobal rəqəmsallaşmanın əsas vəzifələrindən biri ",
+      "answers": [
+        {
+          "text": " yaranan ictimai aktivlərin (resursların) səmərəli idarə edilməsi prinsiplərini formalaşdırmaq və mövcud iqtisadi aktivlərin (resursların) idarə edilməsini təkmilləşdirməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": " yaranan iqtisadi aktivlərin (resursların) səmərəli idarə edilməsi prinsiplərini formalaşdırmaq və mövcud iqtisadi aktivlərin (resursların) idarə edilməsini təkmilləşdirməkdir",
+          "isCorrect": true
+        },
+        {
+          "text": " yaranan təbii aktivlərin (resursların) səmərəli idarə edilməsi prinsiplərini formalaşdırmaq və mövcud iqtisadi aktivlərin (resursların) idarə edilməsini təkmilləşdirməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": " yaranan texniki aktivlərin (resursların) səmərəli idarə edilməsi prinsiplərini formalaşdırmaq və mövcud iqtisadi aktivlərin (resursların) idarə edilməsini təkmilləşdirməkdir",
+          "isCorrect": false
+        },
+        {
+          "text": " yaranan mənəvi aktivlərin (resursların) səmərəli idarə edilməsi prinsiplərini formalaşdırmaq və mövcud iqtisadi aktivlərin (resursların) idarə edilməsini təkmilləşdirməkdir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Dəqiq kənd təsərrüfatının əsas komponentləri aşağıdakılardır: ",
+      "answers": [
+        {
+          "text": " - texnikanın və bitkilərin vəziyyəti haqqında müvafiq miqyasda və müvafiq tezlikdə məlumat əldə etmək;",
+          "isCorrect": false
+        },
+        {
+          "text": " - havanın vəziyyəti haqqında müvafiq miqyasda və müvafiq tezlikdə məlumat əldə etmək;",
+          "isCorrect": false
+        },
+        {
+          "text": " -  texnikanın vəziyyəti haqqında müvafiq miqyasda və müvafiq tezlikdə məlumat əldə etmək;",
+          "isCorrect": false
+        },
+        {
+          "text": " - sahənin və bitkilərin vəziyyəti haqqında müvafiq miqyasda və müvafiq tezlikdə məlumat əldə etmək;",
+          "isCorrect": true
+        },
+        {
+          "text": " - sahənin və kompüterlərin vəziyyəti haqqında müvafiq miqyasda və müvafiq tezlikdə məlumat əldə etmək;",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Müasir kənd təsərrüfatı istehsalının və bu sahədə elmi tədqiqatların səmərəliliyinin artırılmasında aparıcı amil ",
+      "answers": [
+        {
+          "text": " məhdud informasiya məkanı formasında maksimum həcmdə informasiyanın toplanması, emalı və təhlilidir",
+          "isCorrect": false
+        },
+        {
+          "text": " vahid təsərrüfat məkanı formasında maksimum həcmdə informasiyanın toplanması, emalı və təhlilidir",
+          "isCorrect": false
+        },
+        {
+          "text": " qlobal informasiya məkanı formasında maksimum həcmdə informasiyanın toplanması, emalı və təhlilidir",
+          "isCorrect": false
+        },
+        {
+          "text": " vahid informasiya məkanı formasında maksimum həcmdə informasiyanın toplanması, emalı və təhlilidir",
+          "isCorrect": true
+        },
+        {
+          "text": " vahid kompüter məkanı formasında maksimum həcmdə informasiyanın toplanması, emalı və təhlilidir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Aqrokimyəvi tədqiqatların nəticələrinin elektron məlumat bazalarının və ... yaradılması son dərəcə vacibdir ",
+      "answers": [
+        {
+          "text": " kompüter şəbəkələrinin",
+          "isCorrect": false
+        },
+        {
+          "text": " kənd təsərrüfatı torpaqlarının monitorinq sisteminin",
+          "isCorrect": true
+        },
+        {
+          "text": " peyk naviqasiya xidmətinin",
+          "isCorrect": false
+        },
+        {
+          "text": " sənaye monitorinq sisteminin",
+          "isCorrect": false
+        },
+        {
+          "text": " aqropqrkların",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ALƏS-nin layihələndirilməsində innovativ inkişafların əsasını ",
+      "answers": [
+        {
+          "text": " kompüter proqramları, verilənlər bazası (faktiki informasiya), ekspert sistemləri (bilik bazaları, qərar qəbul etmə alqoritmləri) və GIS texnologiyaları təşkil edir",
+          "isCorrect": true
+        },
+        {
+          "text": " kompüter proqramları, verilənlər bazası (faktiki informasiya), ekspert sistemləri (bilik bazaları, qərar qəbul etmə alqoritmləri) və CASE texnologiyaları təşkil edir",
+          "isCorrect": false
+        },
+        {
+          "text": " kompüter şəbəkələri, verilənlər bazası (faktiki informasiya), ekspert sistemləri (bilik bazaları, qərar qəbul etmə alqoritmləri) və GIS texnologiyaları təşkil edir",
+          "isCorrect": false
+        },
+        {
+          "text": " dərsliklər, verilənlər bazası (faktiki informasiya), ekspert sistemləri (bilik bazaları, qərar qəbul etmə alqoritmləri) və GIS texnologiyaları təşkil edir",
+          "isCorrect": false
+        },
+        {
+          "text": " informasiya sistemləri, verilənlər bazası (faktiki informasiya), ekspert sistemləri (bilik bazaları, qərar qəbul etmə alqoritmləri) və GIS texnologiyaları təşkil edir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Orenburq alimləri V.A. Lyubchich və M.R. Kuramshin (2013) dəqiq əkinçilik sisteminin inkişafı və tətbiqi üçün ... əsas mərhələnin adını çəkir ",
+      "answers": [
+        {
+          "text": " 5",
+          "isCorrect": false
+        },
+        {
+          "text": " 20",
+          "isCorrect": false
+        },
+        {
+          "text": " 3",
+          "isCorrect": false
+        },
+        {
+          "text": " 9",
+          "isCorrect": false
+        },
+        {
+          "text": " 11",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Kənd təsərrüfatı torpaqlarının monitorinqi: ",
+      "answers": [
+        {
+          "text": " meşə sahələrinin iş sahələrinin sərhədləri; sahələrin aqrokimyəvi monitorinqi; gəlir xəritəsi; ərazi şəraitinin təhlili",
+          "isCorrect": false
+        },
+        {
+          "text": " otlaq sahələrinin iş sahələrinin sərhədləri; sahələrin aqrokimyəvi monitorinqi; gəlir xəritəsi; ərazi şəraitinin təhlili",
+          "isCorrect": false
+        },
+        {
+          "text": " əkin sahələrinin iş sahələrinin sərhədləri; sahələrin aqrokimyəvi monitorinqi; gəlir xəritəsi; ərazi şəraitinin təhlili",
+          "isCorrect": true
+        },
+        {
+          "text": " çəmən sahələrinin iş sahələrinin sərhədləri; sahələrin aqrokimyəvi monitorinqi; gəlir xəritəsi; ərazi şəraitinin təhlili",
+          "isCorrect": false
+        },
+        {
+          "text": " biçənək sahələrinin iş sahələrinin sərhədləri; sahələrin aqrokimyəvi monitorinqi; gəlir xəritəsi; ərazi şəraitinin təhlili",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Son illərdə bitkiçilik məhsuldarlığının ... sahəsində paralel idarəetmə, informasiyalaşdırma və monitorinq sistemləri, məhsuldarlığın xəritələşdirilməsi və gübrələrin differensial tətbiqi, elektron sahə xəritələrinin yaradılması ən fəal şəkildə istifadə olunur ",
+      "answers": [
+        {
+          "text": " intensivləşdirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " rəqəmsallaşdırılması",
+          "isCorrect": true
+        },
+        {
+          "text": " mexanikləşdirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " elektrikləşdirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " sistemləşdirilməsi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Paralel sürmənin həyata keçirilməsi üçün ... variant var ",
+      "answers": [
+        {
+          "text": " beş",
+          "isCorrect": false
+        },
+        {
+          "text": " üç ",
+          "isCorrect": true
+        },
+        {
+          "text": " on bir",
+          "isCorrect": false
+        },
+        {
+          "text": " yeddi",
+          "isCorrect": false
+        },
+        {
+          "text": " dörd",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Qırmızı və yaxın infraqırmızı diapazonlarda əks olunanların cəmi və fərqinə əsasən NDVI indeksi hesablanır: ",
+      "answers": [
+        {
+          "text": " NDVI = (ρNIR – ρRED)/(ρNIR \u002B ρRED)",
+          "isCorrect": true
+        },
+        {
+          "text": " NDVI = (ρNIR – ρRED)/(ρNIR \u002B ρREs)",
+          "isCorrect": false
+        },
+        {
+          "text": " NDVI = (aNIR – ρRED)/(ρNIR \u002B ρRED)",
+          "isCorrect": false
+        },
+        {
+          "text": " NDVI = (ρNIR – ρBLAK)/(ρNIR \u002B ρRED)",
+          "isCorrect": false
+        },
+        {
+          "text": " NDVI = (ρNIn – ρRED)/(ρNIR \u002B ρRED)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Aqrosenozların monitorinqi istiqamətlərindən biri ... -ə qədər olan mikro ərazilər nəzərə alınmaqla məhsulun xəritəsinin tərtib edilməsidir",
+      "answers": [
+        {
+          "text": " 11m2",
+          "isCorrect": false
+        },
+        {
+          "text": " 3m2",
+          "isCorrect": false
+        },
+        {
+          "text": " 5m2",
+          "isCorrect": true
+        },
+        {
+          "text": " 10m2",
+          "isCorrect": false
+        },
+        {
+          "text": " 7m2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Rəqəmsallaşma yolu ilə kənd təsərrüfatının səmərəliliyinin artırılmasının əsas amillərinə ilk növbədə aşağıdakılar daxildir: ",
+      "answers": [
+        {
+          "text": " – Torpaq amilinin təsirinin azalmasına səbəb olan maddi-texniki resurslara nəzarətin gücləndirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " – İnformasiya amilinin təsirinin azalmasına səbəb olan maddi-texniki resurslara nəzarətin gücləndirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " – Mühit amilinin təsirinin azalmasına səbəb olan maddi-texniki resurslara nəzarətin gücləndirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " – Texnika amilinin təsirinin azalmasına səbəb olan maddi-texniki resurslara nəzarətin gücləndirilməsi",
+          "isCorrect": false
+        },
+        {
+          "text": " – İnsan amilinin təsirinin azalmasına səbəb olan maddi-texniki resurslara nəzarətin gücləndirilməsi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Rusiya Kənd Təsərrüfatı Nazirliyinin Analitik Mərkəzinin məlumatına görə, rəqəmsal iqtisadiyyat texnologiyalarının tətbiqi ətraf mühitə müsbət təsirləri təmin edir və xərcləri ... qədər azaldır",
+      "answers": [
+        {
+          "text": " 2%-ə",
+          "isCorrect": false
+        },
+        {
+          "text": " 23%-ə",
+          "isCorrect": true
+        },
+        {
+          "text": " 3%-ə",
+          "isCorrect": false
+        },
+        {
+          "text": " 32%-ə",
+          "isCorrect": false
+        },
+        {
+          "text": " 33%-ə",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Rəqəmsal texnologiyaların inkişafına ... avadanlığı ilə təchiz olunmuş texniki vasitələrin çatışmazlığı mane olur",
+      "answers": [
+        {
+          "text": " kompüter",
+          "isCorrect": false
+        },
+        {
+          "text": " kultivasiya",
+          "isCorrect": false
+        },
+        {
+          "text": " texnologiya",
+          "isCorrect": false
+        },
+        {
+          "text": " elektrik",
+          "isCorrect": false
+        },
+        {
+          "text": " naviqasiya ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Kurqan Elmi-Tədqiqat Kənd Təsərrüfatı İnstitutunda hazırlanan əkinçilik sisteminin informasiya-analitik kompleksini ... bloka bölmək olar",
+      "answers": [
+        {
+          "text": " dörd",
+          "isCorrect": true
+        },
+        {
+          "text": " on iki",
+          "isCorrect": false
+        },
+        {
+          "text": " altı",
+          "isCorrect": false
+        },
+        {
+          "text": " doqquz",
+          "isCorrect": false
+        },
+        {
+          "text": " iki",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ... əkinçiliyin aqrotexniki və iqtisadi standartları, elmi müəssisələrin tədqiqatlarının nəticələrinə əsasən müəyyən kənd təsərrüfatı təcrübələrinə dair tövsiyələr, qərarların qəbulu üçün üsul və alqoritmlər haqqında məlumatlar var",
+      "answers": [
+        {
+          "text": " Şəbəkədə",
+          "isCorrect": false
+        },
+        {
+          "text": " Verilənlər bazasında",
+          "isCorrect": false
+        },
+        {
+          "text": " Anbarda",
+          "isCorrect": false
+        },
+        {
+          "text": " Kitabxanada",
+          "isCorrect": false
+        },
+        {
+          "text": " Biliklər bazasında",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Texnologiyanın layihələndirilməsi “Kənd təsərrüfatı bitkilərinin becərilməsi texnologiyalarının layihələndirilməsi” ... istifadə etməklə həyata keçirilir.",
+      "answers": [
+        {
+          "text": " kitabından",
+          "isCorrect": false
+        },
+        {
+          "text": " kompüter proqramından ",
+          "isCorrect": true
+        },
+        {
+          "text": " jurnalından",
+          "isCorrect": false
+        },
+        {
+          "text": " verilənlər bazasından",
+          "isCorrect": false
+        },
+        {
+          "text": " heç biri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Kənd təsərrüfatının informasiya-analitik sisteminin ən mühüm elementi …",
+      "answers": [
+        {
+          "text": " aqromonitorinqdir",
+          "isCorrect": true
+        },
+        {
+          "text": " aqrosenozdur",
+          "isCorrect": false
+        },
+        {
+          "text": " aqrotexnologiyadır",
+          "isCorrect": false
+        },
+        {
+          "text": " texnoloji əməliyyatdır",
+          "isCorrect": false
+        },
+        {
+          "text": " heç biri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ... məlumat bazası əsasında tarla işləri zamanı traktorlar üçün istehsal və yanacaq sərfi standartlarını hazırlamaq mümkündür",
+      "answers": [
+        {
+          "text": " Sistemin monitorinqi",
+          "isCorrect": false
+        },
+        {
+          "text": " Aqrosenozların monitorinqi",
+          "isCorrect": false
+        },
+        {
+          "text": " Texnologiyanın monitorinqi",
+          "isCorrect": false
+        },
+        {
+          "text": " Kompüterin monitorinqi",
+          "isCorrect": false
+        },
+        {
+          "text": " Avadanlıqların monitorinqi ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Avadanlıqların monitorinqi kənd təsərrüfatı ... idarə edilməsinin rəqəmsallaşdırılmasının ümumi sistemində aparıcı həlqədir",
+      "answers": [
+        {
+          "text": " kompüterlərinin",
+          "isCorrect": false
+        },
+        {
+          "text": " texnologiyalarının ",
+          "isCorrect": true
+        },
+        {
+          "text": " sistemlərinin",
+          "isCorrect": false
+        },
+        {
+          "text": " bitkilərinin",
+          "isCorrect": false
+        },
+        {
+          "text": " verilənlər bazalarının",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Əkinçilik sistemlərinin layihələndirilməsi və kənd təsərrüfatı texnologiyalarının hərtərəfli təhlili üçün hər bir aqrosenozun xüsusiyyətləri və tarixi haqqında ümumi ... vacibdir",
+      "answers": [
+        {
+          "text": " məlumat bazası",
+          "isCorrect": true
+        },
+        {
+          "text": " texnologiya",
+          "isCorrect": false
+        },
+        {
+          "text": " yanaşma",
+          "isCorrect": false
+        },
+        {
+          "text": " kompüter",
+          "isCorrect": false
+        },
+        {
+          "text": " sistem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " İdarəetmə səmərəliliyinin artırılmasında əsas amil texnologiyaların maksimum ... məzmunudur",
+      "answers": [
+        {
+          "text": " bioloji ",
+          "isCorrect": false
+        },
+        {
+          "text": " texnologiya",
+          "isCorrect": false
+        },
+        {
+          "text": " konseptual",
+          "isCorrect": false
+        },
+        {
+          "text": " texniki",
+          "isCorrect": false
+        },
+        {
+          "text": " informasiya",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Xüsusi əhəmiyyət kəsb edən ... kitablarıdır",
+      "answers": [
+        {
+          "text": " aqronomluq ",
+          "isCorrect": false
+        },
+        {
+          "text": " tarla tarix",
+          "isCorrect": true
+        },
+        {
+          "text": " kompüter",
+          "isCorrect": false
+        },
+        {
+          "text": " uçot",
+          "isCorrect": false
+        },
+        {
+          "text": " ümumi tarix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Elektron sahə tarixi kitabının üstünlüklərindən biri ",
+      "answers": [
+        {
+          "text": " kompüter hesabatlarının avtomatik yaradılmasıdır",
+          "isCorrect": false
+        },
+        {
+          "text": " sahə hesabatlarının avtomatik yaradılmasıdır",
+          "isCorrect": true
+        },
+        {
+          "text": " uçot hesabatlarının avtomatik yaradılmasıdır",
+          "isCorrect": false
+        },
+        {
+          "text": " texniki hesabatlarının avtomatik yaradılmasıdır",
+          "isCorrect": false
+        },
+        {
+          "text": " informasiya hesabatlarının avtomatik yaradılmasıdır",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Sahələr və müxtəlif illər üzrə parametrlərin sürətli təhlili yeni imkanlar açır: ... kənd təsərrüfatına dair bilikləri əhəmiyyətli dərəcədə genişləndirə bilər, xüsusən də məlumatlar vahid məlumat bazasına ötürüldükdə",
+      "answers": [
+        {
+          "text": " tarla tarixinin texniki kitabları ",
+          "isCorrect": false
+        },
+        {
+          "text": " tarla tarixinin elektron avadanlıqları",
+          "isCorrect": false
+        },
+        {
+          "text": " tarla tarixinin elektron lampaları",
+          "isCorrect": false
+        },
+        {
+          "text": " tarla sahəsinin elektron kitabları",
+          "isCorrect": false
+        },
+        {
+          "text": " tarla tarixinin elektron kitabları",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Sahələrin tarixinə dair məlumatların toplanması hər bir sahəyə kənd təsərrüfatı işlərinin ...",
+      "answers": [
+        {
+          "text": " həm aqrotexniki, həm də iqtisadi səmərəliliyini təhlil etməyə imkan verir",
+          "isCorrect": true
+        },
+        {
+          "text": " həm aqrotexniki, həm də iqtisadi səmərəliliyini təhlil etməyə imkan verimir",
+          "isCorrect": false
+        },
+        {
+          "text": " həm aqrotexniki, həm də texniki səmərəliliyini təhlil etməyə imkan verir",
+          "isCorrect": false
+        },
+        {
+          "text": " həm mexaniki, həm də iqtisadi səmərəliliyini təhlil etməyə imkan verir",
+          "isCorrect": false
+        },
+        {
+          "text": " həm aqrotexniki, həm də sosial səmərəliliyini təhlil etməyə imkan verir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " ... kənd təsərrüfatına dair bilikləri əhəmiyyətli dərəcədə genişləndirə bilər",
+      "answers": [
+        {
+          "text": " Tarla tarixinin elektron kitabları",
+          "isCorrect": true
+        },
+        {
+          "text": " Tarla tarixinin texniki kitabları",
+          "isCorrect": false
+        },
+        {
+          "text": " Tarla tarixinin bioloji kitabları",
+          "isCorrect": false
+        },
+        {
+          "text": " Tarla tarixinin bitki kitabları",
+          "isCorrect": false
+        },
+        {
+          "text": " Tarla tarixinin yeni kitabları",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": " Elektron sahə tarixi kitabının üstünlüklərindən biri sahə hesabatlarının ... yaradılmasıdır",
+      "answers": [
+        {
+          "text": " heç biri",
+          "isCorrect": false
+        },
+        {
+          "text": " mexaniki",
+          "isCorrect": false
+        },
+        {
+          "text": " əllə",
+          "isCorrect": false
+        },
+        {
+          "text": " sürətlə",
+          "isCorrect": false
+        },
+        {
+          "text": " avtomatik ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": " Elektron xəritə sahə sərhədlərinin nöqtələrinin koordinatlarını qeyd edən ... avadanlığından istifadə etməklə sahələrin konturları üzrə öz proqramımızla yaradılmışdır",
+      "answers": [
+        {
+          "text": " kompüter",
+          "isCorrect": false
+        },
+        {
+          "text": " inteqrasiya",
+          "isCorrect": false
+        },
+        {
+          "text": " naviqasiya ",
+          "isCorrect": true
+        },
+        {
+          "text": " sistem",
+          "isCorrect": false
+        },
+        {
+          "text": " kənd təsərrüfatı",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": ". ... layihələndirilməsi və kənd təsərrüfatı texnologiyalarının hərtərəfli təhlili üçün hər bir aqrosenozun xüsusiyyətləri və tarixi haqqında ümumi məlumat bazası vacibdir",
+      "answers": [
+        {
+          "text": " Əkinçilik mexanizmlərinin",
+          "isCorrect": false
+        },
+        {
+          "text": " Əkinçilik maşınlarının",
+          "isCorrect": false
+        },
+        {
+          "text": " Əkinçilik avadanlıqlarının",
+          "isCorrect": false
+        },
+        {
+          "text": " Əkinçilik texnologiyalarının",
+          "isCorrect": false
+        },
+        {
+          "text": " Əkinçilik sistemlərinin",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}
